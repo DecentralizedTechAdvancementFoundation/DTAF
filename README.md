@@ -289,4 +289,4 @@ DTAF는 단순한 프로젝트가 아닙니다. 이것은 **혁명**입니다. �
 **지금, DTAF와 함께 하십시오.**
 
 **당신의 참여가 세상을 바꿀 수 있습니다.**
-## [돌아가기](https://github.com/DecentralizedTechAdvancementFoundation/DTAF#dtafdecentralized-tech-advancement-foundation)
+## [돌아가기]([https://github.com/DecentralizedTechAdvancementFoundation/DTAF#dtafdecentralized-tech-advancement-foundation](https://github.com/DecentralizedTechAdvancementFoundation/DTAF?tab=readme-ov-file#dtafdecentralized-tech-advancement-foundation))
