@@ -1,4 +1,4 @@
-#**DTAF(Decentralized Tech Advancement Foundation)**는 탈중앙화 기술 발전을 목표로 하는 재단으로, 특히 AI 기술의 독점과 중앙 집중화에 따른 위험성에 주목하고 있습니다. 다음은 두 채팅 파일 내용을 기반으로 프로젝트의 개요를 요약한 내용입니다.
+# **DTAF(Decentralized Tech Advancement Foundation)**는 탈중앙화 기술 발전을 목표로 하는 재단으로, 특히 AI 기술의 독점과 중앙 집중화에 따른 위험성에 주목하고 있습니다. 다음은 두 채팅 파일 내용을 기반으로 프로젝트의 개요를 요약한 내용입니다.
 
 ## DTAF 재단의 문제 인식 
 
