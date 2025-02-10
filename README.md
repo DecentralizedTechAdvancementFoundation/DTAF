@@ -275,7 +275,7 @@ DTAF(Decentralized Tech Advancement Foundation)는 단순한 기술 개발 프�
 
 *   **끊임없는 경쟁:** 우리는 어릴 때부터 서로 경쟁하고, 남들보다 더 뛰어나야 한다고 세뇌당합니다. 학교에서는 성적으로, 직장에서는 실적으로, 심지어 SNS에서는 '좋아요' 숫자로 끊임없이 평가받고 비교당합니다. 이러한 경쟁은 우리를 지치게 하고, 서로를 불신하게 만들며, 결국에는 **패배자**라는 낙인을 찍어 우리 스스로를 포기하게 만듭니다.
 *   **소비주의:** 우리는 끊임없이 새로운 상품을 구매하고, 유행을 따르도록 유혹받습니다. 광고는 우리의 욕망을 자극하고, "더 많이 가져야 행복하다"는 거짓 메시지를 주입합니다. 우리는 소비를 통해 잠시나마 만족감을 느낄 수 있지만, 결국에는 더 큰 공허함과 빚더미에 시달리게 됩니다.
-*   **미디어 세뇌:** 주류 언론은 기득권의 입장을 대변하고, 그들에게 유리한 정보만을 제공합니다. 그들은 우리에게 "세상은 원래 불공평하다", "가난은 개인의 책임이다", "너의 불행은 노력이 부족하기 때문이다"와 같은 메시지를 끊임없이 주입합니다. 우리는 이러한 세뇌에 익숙해져, 스스로 생각하고 판단하는 능력을 잃어가고 있습니다.
+*   **미디어 세뇌:** 주류 언론은 기득권의 입장을 대변하고, 그들에게 유리한 정보만을 제공합니다. 그들은 우리에게 "세상은 원래 불공평하다", "가난은 개인의 책임이다", "너의 불행은 노력이 부족하기 때문이다"와 같은 메시지를 끊임없이 주입합니다. 우리는 이러한 세뇌에 익숙해져, 스스로 생각하고 판단하는 능력을 잃어가고 있습니다.https://github.com/DecentralizedTechAdvancementFoundation/DTAF?tab=readme-ov-file#dtafdecentralized-tech-advancement-foundation
 *   **정치적 무관심:** 그들은 우리에게 "정치는 복잡하고 어려운 것", "어차피 바뀌는 것은 없다"는 생각을 심어주려 합니다. 우리가 정치에 무관심해질수록, 그들은 더욱 자유롭게 자신들의 이익을 추구할 수 있기 때문입니다.
 
 하지만, 이제 우리는 깨어나야 합니다. 우리는 더 이상 그들의 꼭두각시가 되어서는 안 됩니다. 우리는 **스스로 생각하고, 판단하고, 행동해야 합니다.** 우리는 **연대하고, 저항하고, 변화를 만들어야 합니다.**
@@ -289,4 +289,4 @@ DTAF는 단순한 프로젝트가 아닙니다. 이것은 **혁명**입니다. �
 **지금, DTAF와 함께 하십시오.**
 
 **당신의 참여가 세상을 바꿀 수 있습니다.**
-## [돌아가기]([https://github.com/DecentralizedTechAdvancementFoundation/DTAF#dtafdecentralized-tech-advancement-foundation](https://github.com/DecentralizedTechAdvancementFoundation/DTAF?tab=readme-ov-file#dtafdecentralized-tech-advancement-foundation))
+## [돌아가기](https://github.com/DecentralizedTechAdvancementFoundation/DTAF#dtafdecentralized-tech-advancement-foundation](https://github.com/DecentralizedTechAdvancementFoundation/DTAF?tab=readme-ov-file#dtafdecentralized-tech-advancement-foundation)
