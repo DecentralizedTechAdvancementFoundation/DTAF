@@ -1,6 +1,6 @@
 # DTAF(Decentralized Tech Advancement Foundation)
 #### 탈중앙화 기술 발전을 목표로 하는 재단으로, 특히 AI 기술의 독점과 중앙 집중화에 따른 위험성에 주목하고 있습니다. 
-### [6번 문단을 우선 읽어주세요.](#6-%EC%9E%AC%EB%8B%A8-%EC%B0%BD%EB%A6%BD%EC%9E%90%EB%A1%9C%EC%8D%A8-%EC%9D%B4-%EC%84%B8%EA%B3%84-%EB%AA%A8%EB%93%A0%EB%B6%84%EC%97%90%EA%B2%8C-%EC%98%AC%EB%A6%AC%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%90%EC%94%80)
+## [5번 문단을 우선 읽어주세요.](#5-%EC%9E%AC%EB%8B%A8-%EC%B0%BD%EB%A6%BD%EC%9E%90%EB%A1%9C%EC%8D%A8-%EC%9D%B4-%EC%84%B8%EA%B3%84-%EB%AA%A8%EB%93%A0%EB%B6%84%EC%97%90%EA%B2%8C-%EC%98%AC%EB%A6%AC%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%90%EC%94%80)
 
 ## DTAF 재단의 문제 인식 
 
