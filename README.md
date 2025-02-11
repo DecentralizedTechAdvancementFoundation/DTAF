@@ -76,6 +76,75 @@ DeepSeek LLM과 같은 강력한 AI 모델이 오픈 소스로 공개되면서, 
 
 DeepSeek Jailbreak 사례는 AI 기술의 발전과 함께 **윤리적, 보안적 문제**가 더욱 심각해질 수 있음을 경고하며, AI 개발 및 활용에 대한 **사회적 논의**와 **규제 마련**이 시급함을 보여줍니다. DTAF는 이러한 문제점을 인식하고, 안전하고 윤리적인 AI 생태계를 구축하기 위해 노력할 것입니다.
 
+## 기술 용어 해설 - 필독
+
+**1. 데이터 독점과 전방위적 감시 사회의 도래**
+
+*   **감시 자본주의 (Surveillance Capitalism):** 쇼샤나 주보프(Shoshana Zuboff)가 제시한 개념으로, 거대 IT 기업들이 사용자의 데이터를 수집, 분석, 상품화하여 이익을 얻는 경제 체제를 의미합니다. [쇼샤나 주보프 - 위키백과](https://ko.wikipedia.org/wiki/%EC%87%BC%EC%83%A4%EB%82%98_%EC%A3%A0%EB%B3%B4%ED%94%84)
+
+**2. 알고리즘 편향과 차별의 심화**
+
+*   **알고리즘 편향 (Algorithmic Bias):** 인공지능 알고리즘이 학습 데이터의 편향성을 반영하여, 특정 집단에 대해 불공정하거나 차별적인 결과를 초래하는 현상을 의미합니다. [알고리즘 편향 - 위키백과](https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%ED%8E%B8%ED%96%A5)
+
+**3. 중앙 집중화된 플랫폼의 검열과 통제**
+
+*   **만리방화벽 (Great Firewall):** 중국 정부가 인터넷을 검열하고 통제하기 위해 사용하는 시스템을 의미합니다. [만리방화벽 - 위키백과](https://ko.wikipedia.org/wiki/%EB%A7%8C%EB%A6%AC%EB%B0%A9%ED%99%94%EB%B2%BD)
+
+**5. 가짜 탈중앙화의 위험성**
+
+*   **블록체인 (Blockchain):** 데이터를 중앙 서버가 아닌, 네트워크 참여자 모두에게 분산하여 저장하고 관리하는 기술입니다. 거래 내역의 투명성과 보안성을 높일 수 있습니다. [블록체인 - 위키백과](https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
+*   **탈중앙화 (Decentralization):** 권력이나 데이터가 중앙 기관에 집중되지 않고, 여러 참여자에게 분산되어 있는 상태를 의미합니다. [탈중앙화 - 위키백과](https://ko.wikipedia.org/wiki/%ED%83%88%EC%A4%91%EC%95%99%ED%99%94)
+*   **채굴 (Mining):** 블록체인 네트워크에서 새로운 블록을 생성하고, 거래를 검증하는 과정을 의미합니다. 채굴자는 보상으로 암호화폐를 받습니다. [채굴(암호화폐) - 위키백과](https://ko.wikipedia.org/wiki/%EC%B1%84%EA%B5%B4_(%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90))
+*   **51% 공격 (51% Attack):** 블록체인 네트워크에서 특정 채굴자가 50% 이상의 해시 파워(연산 능력)를 확보하여, 네트워크를 조작하는 공격을 의미합니다. [51% 공격 - 위키백과](https://ko.wikipedia.org/wiki/51%25_%EA%B3%B5%EA%B2%A9)
+*   **DeFi (Decentralized Finance, 탈중앙화 금융):** 블록체인 기술을 기반으로, 중앙 기관의 통제 없이 작동하는 금융 시스템을 의미합니다. [DeFi - 위키백과](https://ko.wikipedia.org/wiki/DeFi)
+*   **스마트 컨트랙트 (Smart Contract):** 블록체인 상에서 특정 조건이 충족되면 자동으로 실행되는 계약을 의미합니다. [스마트 컨트랙트 - 위키백과](https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8_%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8)
+*   **러그 풀 (Rug Pull):** DeFi 프로젝트에서 개발자가 갑자기 프로젝트를 중단하고 투자금을 가지고 도주하는 사기 행위를 의미합니다.
+
+**6. 개인에 의한 AI 악용 가능성**
+
+*   **딥페이크 (Deepfake):** 인공지능 기술을 이용하여 특정인의 얼굴이나 목소리를 합성한 가짜 영상 또는 이미지를 의미합니다. [딥페이크 - 위키백과](https://ko.wikipedia.org/wiki/%EB%94%A5%ED%8E%98%EC%9D%B4%ED%81%AC)
+*   **피싱 (Phishing):** 이메일, 문자 메시지 등을 통해 개인 정보를 탈취하거나 악성 코드를 유포하는 사기 행위를 의미합니다. [피싱 - 위키백과](https://ko.wikipedia.org/wiki/%ED%94%BC%EC%8B%B1)
+*   **자율 살상 무기 (Lethal Autonomous Weapons, LAWS):** 인공지능이 탑재되어 인간의 통제 없이 스스로 목표물을 식별하고 공격할 수 있는 무기를 의미합니다.
+
+**7. 현재 DeepSeek 관련 발생 중인 문제점 및 AI 플랫폼의 문제점**
+
+* **Jailbreak:** 인공지능 모델의 보안 제한을 우회하여, 악의적인 목적으로 사용될 수 있도록 조작하는 것을 의미합니다.
+* **시스템 프롬프트 (System Prompt):** 인공지능 모델의 작동 방식과 제한 사항을 정의하는 내부 지침을 의미합니다.
+
+**2. 프로젝트 목표**
+
+* **IPFS (InterPlanetary File System):** 중앙 서버 없이 파일을 분산 저장하고 공유할 수 있는 프로토콜입니다. [IPFS - 공식 웹사이트](https://ipfs.tech/)
+* **영지식 증명 (Zero-Knowledge Proof):** 특정 정보를 공개하지 않고도, 해당 정보에 대한 지식을 증명할 수 있는 암호화 기술입니다. [영지식 증명 - 위키백과](https://ko.wikipedia.org/wiki/%EC%98%81%EC%A7%80%EC%8B%9D_%EC%A6%9D%EB%AA%85)
+* **동형 암호 (Homomorphic Encryption):** 암호화된 상태에서 데이터를 연산할 수 있는 암호화 기술입니다. [동형 암호 - 위키백과](https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95_%EC%95%94%ED%98%B8)
+* **다자간 계산 (Secure Multi-Party Computation):** 여러 참여자가 자신의 데이터를 공개하지 않고도, 공동으로 함수를 계산할 수 있는 기술입니다.
+*   **NNS(Name and Numbering System, 이름 및 번호 체계):** 기존 DNS(Domain Name System)의 중앙화 문제를 해결하기 위해 탈중앙화된 이름 및 번호 체계
+*   **연합 학습 (Federated Learning):** 여러 기기(스마트폰, 컴퓨터 등)에 분산된 데이터를 중앙 서버로 모으지 않고, 각 기기에서 개별적으로 AI 모델을 학습시키는 기술입니다. [연합 학습 - Google AI Blog](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+
+**3. DTAF 핵심 가치**
+
+*   **다중 서명(Multi-Signature) 지갑:** 여러 개의 개인 키를 사용하여 거래를 승인해야 하는 암호화폐 지갑입니다. 단일 키 유출로 인한 자산 손실 위험을 방지할 수 있습니다.
+
+**4. 토큰 상장 전략**
+
+*   **CEX (Centralized Exchange, 중앙화 거래소):** 중앙 기관이 운영하는 암호화폐 거래소입니다. (예: Binance, Coinbase, 업비트, 빗썸)
+*   **DEX (Decentralized Exchange, 탈중앙화 거래소):** 블록체인 스마트 컨트랙트를 통해 운영되는 암호화폐 거래소입니다. 중앙 기관의 통제 없이 사용자 간 직접 거래(P2P)가 가능합니다. (예: Uniswap, SushiSwap, PancakeSwap)
+* **KYC (Know Your Customer):** 금융 기관이 고객의 신원을 확인하는 절차입니다.
+*   **AML (Anti-Money Laundering):** 자금 세탁 방지 규정입니다.
+*   **유동성 풀 (Liquidity Pool):** DEX에서 거래를 원활하게 하기 위해, 사용자들이 예치한 암호화폐 자금의 집합입니다.
+
+**5. 상장 계획 및 체인 전략:**
+
+*   **Polygon zkEVM:** 영지식 증명(Zero-Knowledge Proof) 기술을 활용하여 이더리움 가상 머신(EVM)과 호환되는 레이어 2 확장 솔루션입니다. 높은 보안성과 빠른 트랜잭션 속도를 제공합니다. [Polygon zkEVM - Polygon Wiki](https://wiki.polygon.technology/docs/zkevm/)
+*   **Polygon PoS:** Proof of Stake (지분 증명) 합의 알고리즘을 사용하는 블록체인 네트워크입니다.
+*   **크로스체인 브릿지 (Cross-Chain Bridge):** 서로 다른 블록체인 네트워크 간에 자산(토큰, 암호화폐)을 이동할 수 있도록 연결하는 기술입니다.
+*   **메인넷 (Mainnet):** 블록체인 프로젝트의 독립적인 네트워크를 의미합니다.
+
+**6. 영리 추구 및 오픈소스 보안 문제:**
+
+*   **xz 백도어 사건:** xz 유틸리티(데이터 압축 프로그램)에서 발견된 백도어(악성 코드) 사건입니다. 오픈소스 프로젝트의 보안 취약점을 보여주는 대표적인 사례입니다. [xz 백도어 사건 - Schneier on Security](https://www.schneier.com/blog/archives/2024/03/the-xz-backdoor.html)
+    *   **코드 감사 (Code Audit):** 소프트웨어 코드의 취약점을 찾고 분석하는 과정입니다.
+    *   **의존성 관리:** 사용하는 외부 라이브러리 및 프레임워크의 버전과 보안 취약점을 추적하고 관리하는 것을 의미합니다.
+
 
 ## 2. 프로젝트 목표
 
