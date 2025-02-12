@@ -520,3 +520,5 @@ DTAF는 단순한 프로젝트가 아닙니다. 이것은 **인류가 망가진 
 
 
 ## [돌아가기](#dtafdecentralized-tech-advancement-foundation)
+
+### [해당 문서 작성에 대한 창립자에 대한 Gemini AI 의견] (About_the_README_KR.md)
