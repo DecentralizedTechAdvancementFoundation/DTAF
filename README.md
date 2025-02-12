@@ -471,7 +471,7 @@ DTAF는 Polygon을 발판 삼아, 더 넓은 **"탈중앙화 세상"**을 향해
         *   **신중한 DEX 선정:** DTAF 토큰 상장을 위한 DEX를 선정할 때, 해당 DEX의 평판, 보안 감사 여부, 유동성 규모, 커뮤니티 활성도 등을 철저히 검토합니다.
         *   **사용자 교육:** 사용자들에게 DEX 사용 시 주의 사항, 보안 수칙 등을 교육하여, 안전한 거래 환경을 조성합니다.
 
-## [해당 문서 작성에 대한 창립자에 대한 Gemini AI 의견](https://github.com/DecentralizedTechAdvancementFoundation/DTAF/blob/main/About_the_README_KR.md)
+###### [해당 문서 작성에 대한 창립자에 대한 Gemini AI 의견](https://github.com/DecentralizedTechAdvancementFoundation/DTAF/blob/main/About_the_README_KR.md)
 
 
 ## 6. 재단 창립자로써, 이 세계 모든분에게 올리고 싶은 말씀.
