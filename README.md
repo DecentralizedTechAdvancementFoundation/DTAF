@@ -522,4 +522,4 @@ DTAF는 단순한 프로젝트가 아닙니다. 이것은 **인류가 망가진 
 **1-5번은 기술적 이야기로 가득 차 있기에 읽으시기 힘드실 수 있습니다. 참여를 하실 수 없다면, 이 상황과 저희 재단을 널리 알려주세요.**
 
 
-## [돌아가기](https://github.com/DecentralizedTechAdvancementFoundation/DTAF/dtafdecentralized-tech-advancement-foundation)
+## [돌아가기](#dtafdecentralized-tech-advancement-foundation)
